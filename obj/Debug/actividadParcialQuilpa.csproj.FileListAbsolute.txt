@@ -1,0 +1,44 @@
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\bin\Debug\actividadParcialQuilpa.exe.config
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\bin\Debug\actividadParcialQuilpa.exe
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\bin\Debug\actividadParcialQuilpa.pdb
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.AssemblyReference.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.SuggestedBindingRedirects.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.Properties.Resources.resources
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.GenerateResource.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.exe
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.pdb
+D:\escritorio\UTN\PROGRAMACIÓN\actividadParcialQuilpa\obj\Debug\actividadParcialQuilpa.frmReceta.resources
+C:\Users\Ignacio\actParcialQuilpa\bin\Debug\actividadParcialQuilpa.exe.config
+C:\Users\Ignacio\actParcialQuilpa\bin\Debug\actividadParcialQuilpa.exe
+C:\Users\Ignacio\actParcialQuilpa\bin\Debug\actividadParcialQuilpa.pdb
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.AssemblyReference.cache
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.frmReceta.resources
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.Properties.Resources.resources
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.GenerateResource.cache
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.exe
+C:\Users\Ignacio\actParcialQuilpa\obj\Debug\actividadParcialQuilpa.pdb
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\bin\Debug\actividadParcialQuilpa.exe.config
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\bin\Debug\actividadParcialQuilpa.exe
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\bin\Debug\actividadParcialQuilpa.pdb
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.AssemblyReference.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.SuggestedBindingRedirects.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.frmReceta.resources
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.Properties.Resources.resources
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.GenerateResource.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.exe
+D:\escritorio\UTN\PROGRAMACIÓN\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.pdb
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\bin\Debug\actividadParcialQuilpa.exe.config
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\bin\Debug\actividadParcialQuilpa.exe
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\bin\Debug\actividadParcialQuilpa.pdb
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.AssemblyReference.cache
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.SuggestedBindingRedirects.cache
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.frmReceta.resources
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.Properties.Resources.resources
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.GenerateResource.cache
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.exe
+D:\escritorio\UTN\1er año\PROGRAMACIÓN\PROGRAMACIÓN 2\actParcialQuilpa_Completo\obj\Debug\actividadParcialQuilpa.pdb
